@@ -53,12 +53,12 @@
   .navbar ul a:hover,
   .navbar ul a:focus,
   .navbar ul .active {
-    background-color:purple;
+    background-color:rgb(56, 20, 56);
     color: black;
     text-decoration:underline;
   }
   body{
-    background-color:rgb(148, 27, 247);
+    background-color:rgb(97, 49, 137);
     background-repeat: no-repeat;
     background-size: cover;
     background-image: url("home.jpg");
@@ -152,22 +152,21 @@
         <h1 class="hometext">This is my Profile</h1>
       </section><br><br><br><br><br><br><br><br><br><br><br>
       <section id="About"><br><br><br><br>
-        <h1 style="font-size: 32px;color: white;font-family:'Times New Roman', Times, serif;color:aqua">About Me:<img id="aboutimg" src="WhatsApp Image 2024-07-22 at 9.19.00 PM.jpeg" width="300" hieght="150px"></h1>
+        <h1 style="font-size: 32px;color: white;font-family:'Times New Roman', Times, serif;color:rgb(0, 170, 255)">About Me:</h1>
         <p id="aboutpara">
-            I am Punith Infant.
-            I am from Vettavalam which is located in Thruvannamalai district.
+            I am Ahimson Shalom A.
+            I am from Koothur which is located in Thanjore district.
             I am doing undergraduate degree in the stream of Computer Science at 
             St.Joseph's College(Autonomous), Tiuchirappalli.
-           I am staying at New Hostel in  our College campus.
         </p>
-        <h1 style="font-size: 32px;color: white;font-family:cursive;color:aqua">Skills</h1>
+        <h1 style="font-size: 32px;color: rgb(18, 214, 109);font-family:cursive;color:rgb(7, 159, 214)">Skills</h1>
         <ul id="aboutlist">
-            <li>Programming languages(Python,c,c++)</li>
-            <li>Tools(MS Word,MS Excel)</li>
+            <li>Python,c,c++</li>
+            <li>MS Word,MS Excel</li>
         </ul>
       </section><br><br><br><br><br><br><br><br><br><br><br>
       <section id="edu"><br><br><br><br><br><br>
-        <h1 style="font-size: 32px;font-family:'Times New Roman', Times, serif;color:aqua">Educational Qualifications:</h1>  
+        <h1 style="font-size: 32px;font-family:'Times New Roman', Times, serif;color:rgb(16, 84, 210)">Educational Qualifications:</h1>  
       <table>
         <tr>
             <th>course</th>
@@ -183,23 +182,23 @@
         </tr>
         <tr>
             <td>Higher Secondary</td>
-            <td>St Mary's Boye's Hr.Sec.School,Thiruvarangam</td>
-            <td>351/600</td>
-            <td>2022</td>
+            <td>SSDV Hr.Sec.School,Thiruvarangam</td>
+            <td>475/600</td>
+            <td>2021</td>
         </tr>
         <tr>
           <td>SSLC</td>
-          <td>St Mary's Boye's Hr.Sec.School,Thiruvarangam</td>
-          <td>310/500</td>
-          <td>2020</td>
+          <td>SSDV Hr.Sec.School,Thiruvarangam</td>
+          <td>382/500</td>
+          <td>2019</td>
       </tr>
       </table>
       </section><br><br><br><br><br><br><br><br><br><br><br>
       <section id="course"><br><br><br><br>
-        <h1 style="font-size: 32px;font-family:'Times New Roman', Times, serif;color:aqua">Online Courses</h1> 
+        <h1 style="font-size: 32px;font-family:'Times New Roman', Times, serif;color:rgb(27, 157, 190)">Online Courses</h1> 
         <p id="coursepara">
           The following are the courses that I have done through online,
-          <ul style="font-size: 200%;margin-left: 13%;color:rgb(2, 5, 5)">
+          <ul style="font-size: 200%;margin-left: 13%;color:rgb(36, 110, 110)">
             <li>HTML </li><br>
             <li>PHP & MYSQL</li><br>
             <li>Python </li><br>
@@ -207,12 +206,11 @@
         </p>
       </section><br><br><br><br><br><br><br><br><br><br><br>
       <section id="contact"><br><br><br><br>
-        <h1 style="color:aqua;font-size: 200%;font-family: 'Times New Roman', Times, serif;">Address</h1>
-        <address id="contactadd">269/3,Valan Nagar,<br>Vettavalam,<br>Thruvannamalai.</address>
+        <h1 style="color:rgb(65, 141, 200);font-size: 200%;font-family: 'Times New Roman', Times, serif;">Address</h1>
+        l<address id="contactadd">215,koothur,<br>mathakovil,<br>Thanjore.</address>
         <p id="mailnum">
-          <lable for="email">Email :punithinfant5@gmail.com</lable><br>
-          <lable for="number">Whatsapp :934033312</lable><br>
-          <lable for="linkedin">LinkedIn:<a href="https://www.linkedin.com/in/punith-infant-aa2928280/"> Punith Infant D</a></lable>
+          <lable for="email">Email :ahimsonshalom2003@gmail.com</lable><br>
+          <lable for="number">Whatsapp :8838438735</lable><br>
         </p>
       </section><br><br><br><br><br><br><br><br><br><br><br>
 </body>
